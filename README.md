@@ -6,8 +6,8 @@ Front-End Developer
 
 * 🌍  I'm based in Samutprakarn, Thailand
 * 🖥️  See my portfolio at [Myportfolio](http://jutharat-nar.my.canva.site/portfolio)
-* ✉️  You can contact me at [jutharat41242@gmail.com](mailto:jutharat41242@gmail.com)
-* 🧠  I'm learning Flutter
+* ✉️  You can contact me at [jutharat.nar@spumail.net](mailto:jutharat.nar@spumail.net)
+* 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Interesting Project
 
 ### Skills
